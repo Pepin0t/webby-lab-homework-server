@@ -20,6 +20,7 @@ MONGO_URI=
 Next. Start application using next command:
 
 ```
+npm install
 npm run dev
 ```
 Access will be available at following address:
